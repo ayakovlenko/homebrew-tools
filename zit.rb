@@ -1,8 +1,8 @@
 class Zit < Formula
   desc "Git identity manager"
   homepage "https://github.com/ayakovlenko/zit"
-  url "https://github.com/ayakovlenko/zit/archive/refs/tags/v3.1.0-alpha.2.tar.gz"
-  sha256 "cd829b375f391ba5c9f7696777f0e2b405ebfc0153d9354d07805f2213a46d5d"
+  url "https://github.com/ayakovlenko/zit/archive/refs/tags/v3.1.0.tar.gz"
+  sha256 "97f58c7ff762d828129c8cfa9862b48103bbd4caeb06cff5da8ff9e96906a315"
 
   depends_on "go" => :build
 
